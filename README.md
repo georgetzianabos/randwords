@@ -7,7 +7,7 @@ Randomize a given list words.
 The utility can be installed using:
 
 ```console
-$ pip install https://github.com/georgetzianabos/randwords.git
+$ pip install git+https://github.com/georgetzianabos/randwords.git
 ```
 
 ## Usage
